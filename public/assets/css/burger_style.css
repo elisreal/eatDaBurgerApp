@@ -4,11 +4,16 @@ body {
 }
 
 img {
-	width: 200px;
+	width: 300px;
 	height: auto;
 }
 
 h1.text-center.text-danger {
 	font-family: 'Alfa Slab One', cursive;
 	font-size: 60px;
+}
+
+a.giphy {
+	color: #eead10 !important;
+	text-decoration: none !important;
 }
