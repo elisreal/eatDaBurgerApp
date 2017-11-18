@@ -1,0 +1,14 @@
+body {
+	background-color: #ffd800;
+	margin-top: 20px;
+}
+
+img {
+	width: 200px;
+	height: auto;
+}
+
+h1.text-center.text-danger {
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 60px;
+}
